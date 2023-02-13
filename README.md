@@ -1,4 +1,4 @@
-# E-Commerce-Back-End
+# E-Commerce Back End
 
 ## Description
 The project is to build the back end for an e-commerce site. This back end application can configure a working Express.js API by using Sequelize to interact with a MySQL database.
@@ -17,18 +17,18 @@ The project is to build the back end for an e-commerce site. This back end appli
 
 ## Installation <a id="Installation"></a>
 1. Install package.json with command `npm i`
-2. Seed data to MySQL database with command `npm run seed`
 
 
 ## Usage <a id="Usage"></a>
 1. Opening an external ternimal from the repository
-2. Run the application with command: `node server`
+2. Seed data to MySQL database with command `npm run seed`
+3. Run the application with command: `node server`
 
 
 ## Contributing <a id="Contributing"></a>
 
 ### Zhihao Li
-https://github.com/lzh1990214/Employee-Tracker
+https://github.com/lzh1990214/E-Commerce-Back-End
 
 ### MySQL2
 https://www.npmjs.com/package/mysql2
@@ -53,7 +53,7 @@ N/A
 
 ## Questions <a id="Questions"></a>
 
-### Github
+### Github 
 https://github.com/lzh1990214
 
 ### Email
