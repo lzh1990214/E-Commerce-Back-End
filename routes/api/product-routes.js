@@ -10,6 +10,7 @@ router.get('/', async (req, res) => {
   try {
     const productData = await Product.findAll(
       {
+        // identify all attributes need to find
         attributes: ['id', 'product_name', 'price', 'stock', 'category_id'],
         include: [
           {
