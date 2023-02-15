@@ -21,8 +21,9 @@ The project is to build the back end for an e-commerce site. This back end appli
 
 ## Usage <a id="Usage"></a>
 1. Opening an external ternimal from the repository
-2. Seed data to MySQL database with command `npm run seed`
-3. Run the application with command: `node server`
+2. Create the schema by running the code in `schema.sql` MySQL Workbench 
+2. Seed the MySQL database with command `npm run seed`
+3. Start the server with command: `node server` 
 
 
 ## Contributing <a id="Contributing"></a>
