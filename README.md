@@ -21,9 +21,9 @@ The project is to build the back end for an e-commerce site. This back end appli
 
 ## Usage <a id="Usage"></a>
 1. Opening an external ternimal from the repository
-2. Create the schema by running the code in `schema.sql` MySQL Workbench 
+2. Create the schema by running the code `schema.sql` in MySQL Workbench 
 2. Seed the MySQL database with command `npm run seed`
-3. Start the server with command: `node server` 
+3. Start the server with command: `npm start` 
 
 
 ## Contributing <a id="Contributing"></a>
@@ -63,9 +63,30 @@ zli02@alumni.risd.edu
 
 ## Screenshots <a id="Screenshots"></a>
 
-### A
-![A](./asset/img)
+### Create schema in MySQL
+![schema](./assets/img/1-schema.png)
 
+### Seed the database
+![seed-database](./assets/img/2-seed-database.png)
+
+### Category table
+![category-table](./assets/img/3-table-category.png)
+
+### Product table
+![product-table](./assets/img/4-table-product.png)
+
+### Product-tag table
+![product-tag-table](./assets/img/5-table-product-tag.png)
+
+### Tag table
+![tag-table](./assets/img/6-table-tag.png)
+
+### Start server
+![start](./assets/img/7-start-server.png)
+
+### Routes test with Insomnia
+![insomnia-routes](./assets/img/8-insomnia-routes.png)
 
 
 ## Walkthrough Video <a id="Walkthrough"></a>
+https://youtu.be/zjx0zT_e5dg
